@@ -13,11 +13,3 @@ as well as the compiled cpu and gpu code that runs when you use libraries like n
 ## Sample code
 
 Sample Python code is provided at [github.com/ssciwr/python-performance-profiling](https://github.com/ssciwr/python-performance-profiling)
-
-To clone the repo and install the dependencies:
-
-```
-git clone https://github.com/ssciwr/python-performance-profiling.git
-cd python-performance-profiling
-python -m pip install -r requirements.txt
-```
