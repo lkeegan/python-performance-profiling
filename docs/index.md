@@ -2,7 +2,7 @@
 
 To make your Python code run faster, you first need to understand where and why it is slow.
 In this course we will look at how to profile and benchmark the performance of Python code,
-as well as the compiled cpu and gpu code that runs when you use libraries like numpy or pytorch.
+as well as the compiled cpu and gpu code that gets invoked when you use libraries like numpy or pytorch.
 
 ## Slides
 
