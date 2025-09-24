@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+title: "Python Performance Profiling"
+description: "SSC Compact Course"
+exclude: [effective_software_testing, notebooks, tests]
